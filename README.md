@@ -106,14 +106,6 @@ This project uses housing data with features including:
 - Newer properties command premium pricing
 - Feature engineering improved model accuracy by 12%
 
-## Future Improvements
-
-- [ ] Add more advanced algorithms (XGBoost, Neural Networks)
-- [ ] Implement time series analysis for price trends
-- [ ] Add real estate market indicators
-- [ ] Enhance web interface with interactive maps
-- [ ] Deploy to cloud platform (AWS/Heroku)
-
 ## Contributing
 
 1. Fork the repository
@@ -126,9 +118,4 @@ This project uses housing data with features including:
 
 This project is open source and available under the MIT License.
 
-## Contact
 
-**Sunny Nguyen**
-- GitHub: [@sunnynguyen-ai](https://github.com/sunnynguyen-ai)
-- Email: sunny.nguyen@onimail.com
-- Website: [sunnyinspires.com](https://sunnyinspires.com)
